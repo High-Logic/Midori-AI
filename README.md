@@ -194,7 +194,7 @@ Midori 已针对 Gemini 进行深度优化，我们强烈推荐您使用。
 #### 调整 Midori 的 `设置` > `大语言模型设置`
 
 1. `大模型类型`：选择 `OpenAI`
-2. `大模型名称`：填入 `gemini-2.5-flash` (或您想使用的其他模型)
+2. `大模型名称`：填入 `gemini-2.5-flash-nothinking` (或您想使用的其他模型)
 3. `API-KEY`：粘贴您在中转站创建的令牌
 4. `OpenAI基址`：填入 `https://api.holdai.top/` (或其他中转站的 Base URL)
 
