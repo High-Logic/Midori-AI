@@ -21,7 +21,9 @@
 
 ## 🛒 购买地址
 
-（暂未发布）
+您可以通过爱发电官方渠道购买 Midori：
+
+**[>> 点击此处前往爱发电商店 <<](https://afdian.com/a/highlogic)**
 
 ---
 
@@ -44,7 +46,7 @@
 - [🎵 BGM 播放](#-bgm-播放)
 - [💾 从旧版本 Midori 导入数据](#-从旧版本-midori-导入数据)
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## MIDORI 简介
 
@@ -63,20 +65,20 @@
 - **😂 表情包模块**：角色可以发送表情包。
 - **🌐 反向代理**：无需 VPN 也可直连官方 **Gemini**。
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 💖 内置角色
 
 Midori 内置了以下初始角色，均支持本地语音，开箱即用。
 
 <p align="center">
-  <img src="Assets/CharaSet_1.png" alt="角色展示1" width="600"/>
+  <img src="Assets/CharaSet_1.png" alt="角色展示1" width="400"/>
 </p>
 <p align="center">
-  <img src="Assets/CharaSet_2.png" alt="角色展示2" width="575"/>
+  <img src="Assets/CharaSet_2.png" alt="角色展示2" width="383"/>
 </p>
 
-<br>
+<div style="page-break-after: always;"></div>
 
 ## 🖥️ 软件界面
 
@@ -94,6 +96,8 @@ Midori 内置了以下初始角色，均支持本地语音，开箱即用。
   <img src="Assets/Logs.png" alt="日志界面" width="600"/>
 </p>
 
+<div style="page-break-after: always;"></div>
+
 #### 👤 角色选择界面
 
 **右键点击**角色卡片可打开快捷菜单，进行删除、导出或置顶等操作。
@@ -110,6 +114,8 @@ Midori 内置了以下初始角色，均支持本地语音，开箱即用。
   <img src="Assets/ChatHistory.png" alt="聊天记录界面" width="600"/>
 </p>
 
+<div style="page-break-after: always;"></div>
+
 #### 💬 聊天界面
 
 - **右键**返回上个界面。
@@ -122,6 +128,8 @@ Midori 内置了以下初始角色，均支持本地语音，开箱即用。
 <p align="center">
   <img src="Assets/Chat.png" alt="聊天界面" width="600"/>
 </p>
+
+<div style="page-break-after: always;"></div>
 
 #### 🐾 桌宠模式
 
@@ -137,6 +145,8 @@ Midori 内置了以下初始角色，均支持本地语音，开箱即用。
 <p align="center">
   <img src="Assets/WindowMode.png" alt="桌宠模式" width="600"/>
 </p>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -180,7 +190,7 @@ Midori 已针对 Gemini 进行深度优化，我们强烈推荐您使用。
 > (2) 创建完成后，将你网关的 `API 端点` 复制到：`设置` > `大语言模型设置` > `代理服务器`  
 > (3) API 端点示例格式如下：`https://gateway.ai.cloudflare.com/v1/[一串字符]/[你的网关名称]/`
 
----
+<div style="page-break-after: always;"></div>
 
 ### 方案二：配置第三方中转站
 
@@ -213,7 +223,7 @@ Midori 已针对 Gemini 进行深度优化，我们强烈推荐您使用。
 2. `大模型名称`：任意填写 (程序会自动使用 `deepseek-chat` 模型)
 3. `API-KEY`：粘贴您创建的 API 密钥。
 
----
+<div style="page-break-after: always;"></div>
 
 ## 🧠 长期记忆配置
 
@@ -264,7 +274,7 @@ Midori 已针对 Gemini 进行深度优化，我们强烈推荐您使用。
 4. 将获取的密钥填入 `memU API`。
 5. 在 `聊天记录界面` 写入记忆。您也可以在 [memU 记忆库](https://app.memu.so/memory) 查看角色记忆。
 
----
+<div style="page-break-after: always;"></div>
 
 ## 😂 表情包配置
 
@@ -282,7 +292,7 @@ Midori 已针对 Gemini 进行深度优化，我们强烈推荐您使用。
 > 为了让 AI 理解并正确使用表情包，**请用描述性的词语为图片命名**，中英文均可。例如：`开心.png`、`sad.gif`。
 > <p align="center"><img src="Assets/Stickers.png" alt="表情包命名示例" width="600"/></p>
 
----
+<div style="page-break-after: always;"></div>
 
 ## 🎤 接入 Fish Audio
 
@@ -312,7 +322,7 @@ Midori 已针对 Gemini 进行深度优化，我们强烈推荐您使用。
     - 前往 [Fish Audio API 页面](https://fish.audio/zh-CN/app/api-keys/) 注册、充值并创建一个 API 密钥。
     - 在 Midori 的 `设置` > `语音合成设置` 中，将密钥填入 `Fish Audio API` 输入框。
 
----
+<div style="page-break-after: always;"></div>
 
 ## 🎵 BGM 播放
 
@@ -322,7 +332,7 @@ Midori 已针对 Gemini 进行深度优化，我们强烈推荐您使用。
 2. **添加音乐**
    将一个或多个音乐文件 (如 `.mp3`, `.wav`) 放入以下文件夹：`[Midori文件夹]\Data\common_resource\sounds\bgm`
 
----
+<div style="page-break-after: always;"></div>
 
 ## 💾 从旧版本 Midori 导入数据
 
